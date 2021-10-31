@@ -1,2 +1,2 @@
-# Pensees Project Demo Videos
+# Pensees Demo Videos
 This repository contains the demo videos for the projects that I worked on as an AI Scientist Intern at Pensees.
